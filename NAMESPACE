@@ -1,0 +1,4 @@
+useDynLib(measError, .registration=TRUE)
+export(getData)
+export(naiveRegression)
+export(correctedRegression)

@@ -1,0 +1,11 @@
+Package: measError
+Type: Package
+Title: Simple Measurement Error Regression
+Version: 0.1.0
+Authors@R: person("Homework", "Student", email="student@example.com", role=c("aut","cre"))
+Description: Simulation helpers and naive/corrected regression estimators for a linear model with additive measurement error.
+License: GPL-3
+Encoding: UTF-8
+Imports: Rcpp
+LinkingTo: Rcpp
+RoxygenNote: 7.3.2
