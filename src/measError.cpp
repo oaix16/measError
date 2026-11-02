@@ -1,4 +1,6 @@
 #include <Rcpp.h>
+using namespace Rcpp;
+
 // [[Rcpp::export]]
 Rcpp::NumericVector centeredSums(Rcpp::NumericVector x, Rcpp::NumericVector y,
                                  Rcpp::NumericVector sigmaU) {
